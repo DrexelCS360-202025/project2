@@ -3,3 +3,4 @@ packages:
 - .
 local-bin-path: bin
 system-ghc: true
+allow-different-user: true
